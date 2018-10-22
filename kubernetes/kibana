@@ -1,2 +1,2 @@
-FROM docker.elastic.co/kibana/kibana:v5.6.4
+FROM docker.elastic.co/kibana/kibana:5.6.4
 MAINTAINER sqcunwei@163.com
